@@ -1,6 +1,8 @@
 {
     "replace": true,
     "values": [
-        "#minecraft:incorrect_for_stone_tool"
+        "#minecraft:incorrect_for_stone_tool",
+        "#minecraft:lapis_ores",
+        "#minecraft:iron_ores"
     ]
 }
